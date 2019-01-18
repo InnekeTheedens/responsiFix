@@ -1,2 +1,2 @@
 # responsiFix
-KLik untuk membuka aplikasi https://responsitcc.herokuapp.com/index
+KLik untuk membuka aplikasi https://responsitcc.herokuapp.com
